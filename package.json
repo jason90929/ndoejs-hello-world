@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs hello world",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason90929/nodejs-hello-world.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "jason90929",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason90929/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/jason90929/nodejs-hello-world#readme"
+}
